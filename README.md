@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3basmi1a&label=Profile%20views&color=0e75b6&style=flat" alt="d3basmi1a" /> </p>
 
+ I'm currently pursuing BCA from Techno India Salt Lake. I am a tech enthusiast fueled by a passion for web development, problem-solving, and continuous learning.😊
+
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/d3basmi1a](https://github.com/d3basmi1a)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/d3basmi1a)
 
 - 💬 Ask me about **HTML,CSS,JS**
 
