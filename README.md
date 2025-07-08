@@ -10,7 +10,7 @@
 
 -----
 # 💫 About Me:
-<picture> <img align="right" src="https://i.pinimg.com/originals/2e/73/f5/2e73f54bfd969a264820b1b9f5253db8.gif" width = 350px></picture>
+<picture> <img align="right" src="https://i.pinimg.com/originals/2e/73/f5/2e73f54bfd969a264820b1b9f5253db8.gif" width = 300px></picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3basmi1a&label=Profile%20views&color=0e75b6&style=flat" alt="d3basmi1a" /> </p>
 
