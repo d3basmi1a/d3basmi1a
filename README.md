@@ -23,7 +23,7 @@
 
 <div align="center">
     
- ![Snake animation](https://github.com/<d3basmi1a>/<d3basmi1a>/raw/output/ocean.gif)
+![snake gif](https://github.com/d3basmi1a/d3basmi1a/blob/output/github-snake-dark.svg)
 </div>
 
 -----
