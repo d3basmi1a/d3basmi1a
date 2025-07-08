@@ -19,7 +19,7 @@
 - ✨ You can visit my [PORTFOLIO](https://d3basmi1a.vercel.app/).
 - 🎓 Pursuing BCA at Techno Main Salt Lake.
 - 🚀 Co-Head at <a href="https://samarthtmsl.vercel.app//">SAMARTH</a>- Educational Society of TMSL.
-- 🤔 I’m currently open for Internship or Full Time Job opportunity, this is my [RESUME](https://drive.google.com/drive/folders/1pMvnkhpGdoE4w0ZzlOhXsWpUJJzVvf0W?usp=sharing).
+- 🤔 I’m open for Internship or Full Time Job opportunity, this is my [RESUME](https://drive.google.com/drive/folders/1pMvnkhpGdoE4w0ZzlOhXsWpUJJzVvf0W?usp=sharing).
 
 <div align="center">
     
